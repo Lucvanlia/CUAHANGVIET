@@ -1,0 +1,17 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+banhangviet.net	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+banhangviet.net	TRUE	/	FALSE	1999999999	wp_woocommerce_session_25835192d5c521cb64407b063fb925bb	t_92f7093cc732dc471807bbb9178ef0%7C%7C1727239592%7C%7C1727235992%7C%7Ccc8f745292239bae051c530429723ae8
+banhangviet.net	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	d2e4a239494ce6593e075dbdc65351be
+mostbet-uzbekistan.com	TRUE	/	FALSE	1999999999	KyFnuGdpLMC	nU%5D%2ACQm
+mostbet-uzbekistan.com	TRUE	/	FALSE	1999999999	msxFqn	SKlRAqWr7jJdbC8F
+.justjared.com	TRUE	/	FALSE	1999999999	__cf_bm	DREISr0.zXZDHfNz41mQMJEdUIbZQZrJ6tFkjEOq.14-1727069308-1.0.1.1-EgB81NBtCAx5VRyGOVOj3iVIjuDGzsxJBJGyvDu.O.1kByfSBdgmUHe95bRXw6iMi6LkLkh1wnLjKiMLkKUEvA
+moneyfall.co.uk	TRUE	/	FALSE	1999999999	parking_session	693a0779-6227-449b-8e2f-4cb8f9c9d8f2
+.stoppredatorygambling.org	TRUE	/	FALSE	1999999999	visid_incap_1510945	Rtrky7iFQs22D6AjWPycD57+8GYAAAAAQUIPAAAAAADLqYajt6i3H06AvAYT80cp
+.stoppredatorygambling.org	TRUE	/	FALSE	1999999999	incap_ses_301_1510945	hYK9G/ePBgInbVEDDV4tBJ7+8GYAAAAAWB3ehKC5w5Tn8LcydLYU/g==
+.newzealand.com	TRUE	/	FALSE	1999999999	SESSION_COUNTRY_CODE	VN
+newzealand.com	TRUE	/	FALSE	1999999999	AKA_A2	A
+img.elo7.com.br	TRUE	/	FALSE	1999999999	az_botm	811af8f2b13bfd0e2bf5669122dc2ee1
+img.elo7.com.br	TRUE	/	FALSE	1999999999	az_asm	qO3Ry7FYUYmg0Hr39pKFeGwQ197isRsmJOurc9rao7298D7rOxTfEKqy/6kw7mKJr7AkvMzh47mg8/pH
+img.elo7.com.br	TRUE	/	FALSE	1999999999	SameSite	Lax
+

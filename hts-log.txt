@@ -1,0 +1,567 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 23 Sep 2024 11:44:19 at https://banhangviet.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://banhangviet.net/ -O1 "E:\laybai\banhangviet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:45:10	Error: 	"Not Found" (404) at link https://banhangviet.net/Firefox/ (from https://banhangviet.net/)
+11:45:10	Error: 	"Method Not Allowed" (405) at link https://banhangviet.net/xmlrpc.php (from https://banhangviet.net/)
+11:49:39	Error: 	"Not Found" (404) at link https://banhangviet.net/i-absolutely-treasured-the-bit-of-it/Firefox/ (from https://banhangviet.net/i-absolutely-treasured-the-bit-of-it/)
+11:49:39	Warning: 	Moved Permanently for https://banhangviet.net/?p=9067
+11:49:39	Warning: 	File has moved from https://banhangviet.net/?p=9067 to https://banhangviet.net/i-absolutely-treasured-the-bit-of-it/
+11:51:08	Warning: 	Retry after error -4 (Connect Error) at link https://fpcover.cdnpk.net/image/20210624125635.jpg (from https://banhangviet.net/wp-content/themes/flatsome-child/style.css?ver=Pro%20Max%207)
+11:51:20	Warning: 	Moved Permanently for https://banhangviet.net/?p=10
+11:51:20	Warning: 	File has moved from https://banhangviet.net/?p=10 to https://banhangviet.net/tai-khoan/
+11:51:20	Error: 	"Not Found" (404) at link https://banhangviet.net/wp-content/themes/flatsome/js/cart-qty-ajax.js?ver=6.6.2 (from https://banhangviet.net/tai-khoan/)
+11:51:20	Warning: 	Moved Permanently for https://banhangviet.net/?p=8
+11:51:20	Warning: 	File has moved from https://banhangviet.net/?p=8 to https://banhangviet.net/gio-hang/
+11:51:48	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/ca-nhap-khau/i (from https://banhangviet.net/danh-muc-san-pham/ca-nhap-khau/)
+11:51:48	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/ca-nhap-khau/Firefox/ (from https://banhangviet.net/danh-muc-san-pham/ca-nhap-khau/)
+11:52:11	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/chua-phan-loai/i (from https://banhangviet.net/danh-muc-san-pham/chua-phan-loai/)
+11:52:11	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/chua-phan-loai/Firefox/ (from https://banhangviet.net/danh-muc-san-pham/chua-phan-loai/)
+11:52:11	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/hai-san-cac-loai/i (from https://banhangviet.net/danh-muc-san-pham/hai-san-cac-loai/)
+11:52:11	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/hai-san-cac-loai/Firefox/ (from https://banhangviet.net/danh-muc-san-pham/hai-san-cac-loai/)
+11:52:29	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/rau-cu-rau-nem/i (from https://banhangviet.net/danh-muc-san-pham/rau-cu-rau-nem/)
+11:52:29	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/rau-cu-rau-nem/Firefox/ (from https://banhangviet.net/danh-muc-san-pham/rau-cu-rau-nem/)
+11:52:29	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/thit-ga-vit-trung/i (from https://banhangviet.net/danh-muc-san-pham/thit-ga-vit-trung/)
+11:52:29	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/thit-ga-vit-trung/Firefox/ (from https://banhangviet.net/danh-muc-san-pham/thit-ga-vit-trung/)
+11:54:33	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/i (from https://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/)
+11:54:33	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/Firefox/ (from https://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/)
+11:57:20	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/thuc-pham-che-bien-san/i (from https://banhangviet.net/danh-muc-san-pham/thuc-pham-che-bien-san/)
+11:57:20	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/thuc-pham-che-bien-san/Firefox/ (from https://banhangviet.net/danh-muc-san-pham/thuc-pham-che-bien-san/)
+11:57:20	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/trai-cay-tuoi-4-mua/i (from https://banhangviet.net/danh-muc-san-pham/trai-cay-tuoi-4-mua/)
+11:57:20	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/trai-cay-tuoi-4-mua/Firefox/ (from https://banhangviet.net/danh-muc-san-pham/trai-cay-tuoi-4-mua/)
+11:57:20	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/ca-hoi-nauy-cat-lat/Firefox/ (from https://banhangviet.net/san-pham/ca-hoi-nauy-cat-lat/)
+11:57:23	Warning: 	Moved Permanently for https://banhangviet.net/?p=5003
+11:57:23	Warning: 	File has moved from https://banhangviet.net/?p=5003 to https://banhangviet.net/san-pham/ca-hoi-nauy-cat-lat/
+11:57:23	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/coi-oc-buu/Firefox/ (from https://banhangviet.net/san-pham/coi-oc-buu/)
+11:57:23	Warning: 	Moved Permanently for https://banhangviet.net/?p=3466
+11:57:23	Warning: 	File has moved from https://banhangviet.net/?p=3466 to https://banhangviet.net/san-pham/coi-oc-buu/
+11:57:23	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/sua-trang/Firefox/ (from https://banhangviet.net/san-pham/sua-trang/)
+11:57:23	Warning: 	Moved Permanently for https://banhangviet.net/?p=2630
+11:57:23	Warning: 	File has moved from https://banhangviet.net/?p=2630 to https://banhangviet.net/san-pham/sua-trang/
+11:57:24	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/suon-que-heo-nga/Firefox/ (from https://banhangviet.net/san-pham/suon-que-heo-nga/)
+11:57:24	Warning: 	Moved Permanently for https://banhangviet.net/?p=2596
+11:57:24	Warning: 	File has moved from https://banhangviet.net/?p=2596 to https://banhangviet.net/san-pham/suon-que-heo-nga/
+11:57:44	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/bao-ngu-nhap-khau/Firefox/ (from https://banhangviet.net/san-pham/bao-ngu-nhap-khau/)
+11:57:44	Warning: 	Moved Permanently for https://banhangviet.net/?p=2584
+11:57:44	Warning: 	File has moved from https://banhangviet.net/?p=2584 to https://banhangviet.net/san-pham/bao-ngu-nhap-khau/
+11:57:45	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/oc-bulot/Firefox/ (from https://banhangviet.net/san-pham/oc-bulot/)
+11:57:45	Warning: 	Moved Permanently for https://banhangviet.net/?p=2583
+11:57:45	Warning: 	File has moved from https://banhangviet.net/?p=2583 to https://banhangviet.net/san-pham/oc-bulot/
+11:57:46	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/tai-heo-xong-khoi/Firefox/ (from https://banhangviet.net/san-pham/tai-heo-xong-khoi/)
+11:57:46	Warning: 	Moved Permanently for https://banhangviet.net/?p=2582
+11:57:46	Warning: 	File has moved from https://banhangviet.net/?p=2582 to https://banhangviet.net/san-pham/tai-heo-xong-khoi/
+11:57:46	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/bap-gio-heo-hun-khoi/Firefox/ (from https://banhangviet.net/san-pham/bap-gio-heo-hun-khoi/)
+11:57:46	Warning: 	Moved Permanently for https://banhangviet.net/?p=2579
+11:57:46	Warning: 	File has moved from https://banhangviet.net/?p=2579 to https://banhangviet.net/san-pham/bap-gio-heo-hun-khoi/
+11:57:46	Error: 	"Not Found" (404) at link https://banhangviet.net/lien-he/Firefox/ (from https://banhangviet.net/lien-he/)
+11:57:46	Warning: 	Moved Permanently for https://banhangviet.net/?p=286
+11:57:46	Warning: 	File has moved from https://banhangviet.net/?p=286 to https://banhangviet.net/lien-he/
+11:57:46	Error: 	"Not Found" (404) at link https://banhangviet.net/gioi-thieu/Firefox/ (from https://banhangviet.net/gioi-thieu/)
+11:57:46	Warning: 	Moved Permanently for https://banhangviet.net/?p=284
+11:57:46	Warning: 	File has moved from https://banhangviet.net/?p=284 to https://banhangviet.net/gioi-thieu/
+11:57:46	Error: 	"Not Found" (404) at link https://banhangviet.net/kiem-tra-don-hang/Firefox/ (from https://banhangviet.net/kiem-tra-don-hang/)
+11:57:46	Warning: 	Moved Permanently for https://banhangviet.net/?p=282
+11:57:46	Warning: 	File has moved from https://banhangviet.net/?p=282 to https://banhangviet.net/kiem-tra-don-hang/
+11:57:46	Error: 	"Not Found" (404) at link https://banhangviet.net/chinh-sach-doi-tra/Firefox/ (from https://banhangviet.net/chinh-sach-doi-tra/)
+11:57:46	Warning: 	Moved Permanently for https://banhangviet.net/?p=60
+11:57:46	Warning: 	File has moved from https://banhangviet.net/?p=60 to https://banhangviet.net/chinh-sach-doi-tra/
+11:57:46	Error: 	"Not Found" (404) at link https://banhangviet.net/huong-dan-mua-hang/Firefox/ (from https://banhangviet.net/huong-dan-mua-hang/)
+11:57:46	Warning: 	Moved Permanently for https://banhangviet.net/?p=58
+11:57:46	Warning: 	File has moved from https://banhangviet.net/?p=58 to https://banhangviet.net/huong-dan-mua-hang/
+11:57:46	Error: 	"Not Found" (404) at link https://banhangviet.net/chinh-sach-giao-hang/Firefox/ (from https://banhangviet.net/chinh-sach-giao-hang/)
+11:57:46	Warning: 	Moved Permanently for https://banhangviet.net/?p=56
+11:57:46	Warning: 	File has moved from https://banhangviet.net/?p=56 to https://banhangviet.net/chinh-sach-giao-hang/
+11:57:46	Error: 	"Not Found" (404) at link https://banhangviet.net/category/mocospace-inceleme-mobil-site-2/i (from https://banhangviet.net/category/mocospace-inceleme-mobil-site-2/)
+11:57:46	Error: 	"Not Found" (404) at link https://banhangviet.net/category/mocospace-inceleme-mobil-site-2/Firefox/ (from https://banhangviet.net/category/mocospace-inceleme-mobil-site-2/)
+11:57:46	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/i (from https://banhangviet.net/author/quantri/)
+11:57:46	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/Firefox/ (from https://banhangviet.net/author/quantri/)
+12:00:49	Error: 	"Not Found" (404) at link https://banhangviet.net/pros-and-cons-regarding-internet-dating-essay/Firefox/ (from https://banhangviet.net/pros-and-cons-regarding-internet-dating-essay/)
+12:00:50	Warning: 	Moved Permanently for https://banhangviet.net/?p=9065
+12:00:50	Warning: 	File has moved from https://banhangviet.net/?p=9065 to https://banhangviet.net/pros-and-cons-regarding-internet-dating-essay/
+12:01:09	Error: 	"Not Found" (404) at link https://banhangviet.net/my-personal-like-places-the-best-value-with-the/Firefox/ (from https://banhangviet.net/my-personal-like-places-the-best-value-with-the/)
+12:01:09	Warning: 	Moved Permanently for https://banhangviet.net/?p=9073
+12:01:09	Warning: 	File has moved from https://banhangviet.net/?p=9073 to https://banhangviet.net/my-personal-like-places-the-best-value-with-the/
+12:01:37	Error: 	"Not Found" (404) at link https://banhangviet.net/22-very-simple-things-you-can-do-to-save-time-with-1win-casino-login/Firefox/ (from https://banhangviet.net/22-very-simple-things-you-can-do-to-save-time-with-1win-casino-login/)
+12:01:37	Warning: 	Moved Permanently for https://banhangviet.net/?p=13397
+12:01:37	Warning: 	File has moved from https://banhangviet.net/?p=13397 to https://banhangviet.net/22-very-simple-things-you-can-do-to-save-time-with-1win-casino-login/
+12:01:37	Error: 	"Not Found" (404) at link https://download.vnmod.net/wp-content/uploads/2022/04/060420221649212865.png (from https://banhangviet.net/22-very-simple-things-you-can-do-to-save-time-with-1win-casino-login/)
+12:01:37	Error: 	"Not Found" (404) at link https://banhangviet.net/fernando-burlando-which-signifies-carlos-ferro/Firefox/ (from https://banhangviet.net/fernando-burlando-which-signifies-carlos-ferro/)
+12:01:37	Warning: 	Moved Permanently for https://banhangviet.net/?p=17890
+12:01:37	Warning: 	File has moved from https://banhangviet.net/?p=17890 to https://banhangviet.net/fernando-burlando-which-signifies-carlos-ferro/
+12:01:37	Error: 	"Not Found" (404) at link https://banhangviet.net/il-proiezione-erotico-italiano-che-vuole/Firefox/ (from https://banhangviet.net/il-proiezione-erotico-italiano-che-vuole/)
+12:01:37	Warning: 	Moved Permanently for https://banhangviet.net/?p=17878
+12:01:37	Warning: 	File has moved from https://banhangviet.net/?p=17878 to https://banhangviet.net/il-proiezione-erotico-italiano-che-vuole/
+12:01:37	Error: 	"Not Found" (404) at link https://banhangviet.net/il-proprio-iniziale-romanzo-off-girl-out-risale-al/Firefox/ (from https://banhangviet.net/il-proprio-iniziale-romanzo-off-girl-out-risale-al/)
+12:01:37	Warning: 	Moved Permanently for https://banhangviet.net/?p=17872
+12:01:37	Warning: 	File has moved from https://banhangviet.net/?p=17872 to https://banhangviet.net/il-proprio-iniziale-romanzo-off-girl-out-risale-al/
+12:01:37	Error: 	"Not Found" (404) at link https://banhangviet.net/are-all-glucose-daddies-regarding-australian/Firefox/ (from https://banhangviet.net/are-all-glucose-daddies-regarding-australian/)
+12:01:37	Warning: 	Moved Permanently for https://banhangviet.net/?p=17874
+12:01:37	Warning: 	File has moved from https://banhangviet.net/?p=17874 to https://banhangviet.net/are-all-glucose-daddies-regarding-australian/
+12:01:37	Warning: 	Retry after error -4 (Connect Error) at link https://fpcover.cdnpk.net/image/20210624125635.jpg (from https://banhangviet.net/wp-content/themes/flatsome-child/style.css?ver=Pro%20Max%207)
+12:01:50	Error: 	"Not Found" (404) at link https://banhangviet.net/cua-hang/Firefox/ (from https://banhangviet.net/cua-hang/)
+12:02:31	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/ca-cam-nhat/Firefox/ (from https://banhangviet.net/san-pham/ca-cam-nhat/)
+12:02:31	Warning: 	Moved Permanently for https://banhangviet.net/?p=912
+12:02:31	Warning: 	File has moved from https://banhangviet.net/?p=912 to https://banhangviet.net/san-pham/ca-cam-nhat/
+12:02:31	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/ca-nuc-nhat/Firefox/ (from https://banhangviet.net/san-pham/ca-nuc-nhat/)
+12:02:31	Warning: 	Moved Permanently for https://banhangviet.net/?p=905
+12:02:31	Warning: 	File has moved from https://banhangviet.net/?p=905 to https://banhangviet.net/san-pham/ca-nuc-nhat/
+12:02:31	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/muc-ong/Firefox/ (from https://banhangviet.net/san-pham/muc-ong/)
+12:02:31	Warning: 	Moved Permanently for https://banhangviet.net/?p=926
+12:02:31	Warning: 	File has moved from https://banhangviet.net/?p=926 to https://banhangviet.net/san-pham/muc-ong/
+12:02:32	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/rau-bach-tuot/Firefox/ (from https://banhangviet.net/san-pham/rau-bach-tuot/)
+12:02:32	Warning: 	Moved Permanently for https://banhangviet.net/?p=1532
+12:02:32	Warning: 	File has moved from https://banhangviet.net/?p=1532 to https://banhangviet.net/san-pham/rau-bach-tuot/
+12:02:32	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=08040837089cdf46631a10aca5258e16&_wpnonce=e3b79cc44a
+12:02:32	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=08040837089cdf46631a10aca5258e16&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/hai-san-cac-loai/?removed_item=1
+12:02:42	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/canh-ga-khuc-giua/Firefox/ (from https://banhangviet.net/san-pham/canh-ga-khuc-giua/)
+12:02:42	Warning: 	Moved Permanently for https://banhangviet.net/?p=576
+12:02:42	Warning: 	File has moved from https://banhangviet.net/?p=576 to https://banhangviet.net/san-pham/canh-ga-khuc-giua/
+12:02:44	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=a7aeed74714116f3b292a982238f83d2&_wpnonce=e3b79cc44a
+12:02:44	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=a7aeed74714116f3b292a982238f83d2&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-ga-vit-trung/?removed_item=1
+12:02:44	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/chan-ga-rut-xuong/Firefox/ (from https://banhangviet.net/san-pham/chan-ga-rut-xuong/)
+12:02:45	Warning: 	Moved Permanently for https://banhangviet.net/?p=584
+12:02:45	Warning: 	File has moved from https://banhangviet.net/?p=584 to https://banhangviet.net/san-pham/chan-ga-rut-xuong/
+12:02:50	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=f5deaeeae1538fb6c45901d524ee2f98&_wpnonce=e3b79cc44a
+12:02:50	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=f5deaeeae1538fb6c45901d524ee2f98&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-ga-vit-trung/?removed_item=1
+12:02:50	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/dui-ga-goc-tu/Firefox/ (from https://banhangviet.net/san-pham/dui-ga-goc-tu/)
+12:02:50	Warning: 	Moved Permanently for https://banhangviet.net/?p=637
+12:02:50	Warning: 	File has moved from https://banhangviet.net/?p=637 to https://banhangviet.net/san-pham/dui-ga-goc-tu/
+12:02:53	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=a532400ed62e772b9dc0b86f46e583ff&_wpnonce=e3b79cc44a
+12:02:53	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=a532400ed62e772b9dc0b86f46e583ff&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-ga-vit-trung/?removed_item=1
+12:02:53	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/dui-ga-toi/Firefox/ (from https://banhangviet.net/san-pham/dui-ga-toi/)
+12:02:53	Warning: 	Moved Permanently for https://banhangviet.net/?p=632
+12:02:53	Warning: 	File has moved from https://banhangviet.net/?p=632 to https://banhangviet.net/san-pham/dui-ga-toi/
+12:02:56	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=abd815286ba1007abfbb8415b83ae2cf&_wpnonce=e3b79cc44a
+12:02:56	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=abd815286ba1007abfbb8415b83ae2cf&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-ga-vit-trung/?removed_item=1
+12:02:56	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/ga-dai-nguyen-con/Firefox/ (from https://banhangviet.net/san-pham/ga-dai-nguyen-con/)
+12:02:56	Warning: 	Moved Permanently for https://banhangviet.net/?p=638
+12:02:56	Warning: 	File has moved from https://banhangviet.net/?p=638 to https://banhangviet.net/san-pham/ga-dai-nguyen-con/
+12:03:00	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=4c27cea8526af8cfee3be5e183ac9605&_wpnonce=e3b79cc44a
+12:03:00	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=4c27cea8526af8cfee3be5e183ac9605&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-ga-vit-trung/?removed_item=1
+12:03:00	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/me-ga/Firefox/ (from https://banhangviet.net/san-pham/me-ga/)
+12:03:00	Warning: 	Moved Permanently for https://banhangviet.net/?p=1097
+12:03:00	Warning: 	File has moved from https://banhangviet.net/?p=1097 to https://banhangviet.net/san-pham/me-ga/
+12:03:03	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=db2b4182156b2f1f817860ac9f409ad7&_wpnonce=e3b79cc44a
+12:03:03	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=db2b4182156b2f1f817860ac9f409ad7&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-ga-vit-trung/?removed_item=1
+12:03:03	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/sun-ga/Firefox/ (from https://banhangviet.net/san-pham/sun-ga/)
+12:03:03	Warning: 	Moved Permanently for https://banhangviet.net/?p=2578
+12:03:03	Warning: 	File has moved from https://banhangviet.net/?p=2578 to https://banhangviet.net/san-pham/sun-ga/
+12:03:07	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/uc-ga-phile/Firefox/ (from https://banhangviet.net/san-pham/uc-ga-phile/)
+12:03:07	Warning: 	Moved Permanently for https://banhangviet.net/?p=1098
+12:03:07	Warning: 	File has moved from https://banhangviet.net/?p=1098 to https://banhangviet.net/san-pham/uc-ga-phile/
+12:03:10	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=a5e0ff62be0b08456fc7f1e88812af3d&_wpnonce=e3b79cc44a
+12:03:10	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=a5e0ff62be0b08456fc7f1e88812af3d&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-ga-vit-trung/?removed_item=1
+12:03:10	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/ba-chi-heo-cat-lat/Firefox/ (from https://banhangviet.net/san-pham/ba-chi-heo-cat-lat/)
+12:03:10	Warning: 	Moved Permanently for https://banhangviet.net/?p=1534
+12:03:10	Warning: 	File has moved from https://banhangviet.net/?p=1534 to https://banhangviet.net/san-pham/ba-chi-heo-cat-lat/
+12:03:14	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/ba-chi-heo-rut-suon/Firefox/ (from https://banhangviet.net/san-pham/ba-chi-heo-rut-suon/)
+12:03:14	Warning: 	Moved Permanently for https://banhangviet.net/?p=587
+12:03:14	Warning: 	File has moved from https://banhangviet.net/?p=587 to https://banhangviet.net/san-pham/ba-chi-heo-rut-suon/
+12:03:21	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=766ebcd59621e305170616ba3d3dac32&_wpnonce=e3b79cc44a
+12:03:21	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=766ebcd59621e305170616ba3d3dac32&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/?removed_item=1
+12:03:21	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/cot-let-heo/Firefox/ (from https://banhangviet.net/san-pham/cot-let-heo/)
+12:03:21	Warning: 	Moved Permanently for https://banhangviet.net/?p=1533
+12:03:21	Warning: 	File has moved from https://banhangviet.net/?p=1533 to https://banhangviet.net/san-pham/cot-let-heo/
+12:03:28	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=35309226eb45ec366ca86a4329a2b7c3&_wpnonce=e3b79cc44a
+12:03:28	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=35309226eb45ec366ca86a4329a2b7c3&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/?removed_item=1
+12:03:28	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/dung-sau-heo-duc/Firefox/ (from https://banhangviet.net/san-pham/dung-sau-heo-duc/)
+12:03:28	Warning: 	Moved Permanently for https://banhangviet.net/?p=710
+12:03:28	Warning: 	File has moved from https://banhangviet.net/?p=710 to https://banhangviet.net/san-pham/dung-sau-heo-duc/
+12:03:32	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=e70611883d2760c8bbafb4acb29e3446&_wpnonce=e3b79cc44a
+12:03:32	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=e70611883d2760c8bbafb4acb29e3446&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/?removed_item=1
+12:03:32	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/duoi-heo-nga/Firefox/ (from https://banhangviet.net/san-pham/duoi-heo-nga/)
+12:03:32	Warning: 	Moved Permanently for https://banhangviet.net/?p=1817
+12:03:32	Warning: 	File has moved from https://banhangviet.net/?p=1817 to https://banhangviet.net/san-pham/duoi-heo-nga/
+12:03:39	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/nac-dam-heo-2/Firefox/ (from https://banhangviet.net/san-pham/nac-dam-heo-2/)
+12:03:39	Warning: 	Moved Permanently for https://banhangviet.net/?p=1531
+12:03:39	Warning: 	File has moved from https://banhangviet.net/?p=1531 to https://banhangviet.net/san-pham/nac-dam-heo-2/
+12:03:42	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=99adff456950dd9629a5260c4de21858&_wpnonce=e3b79cc44a
+12:03:42	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=99adff456950dd9629a5260c4de21858&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/?removed_item=1
+12:03:42	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/634/Firefox/ (from https://banhangviet.net/san-pham/634/)
+12:03:42	Warning: 	Moved Permanently for https://banhangviet.net/?p=634
+12:03:42	Warning: 	File has moved from https://banhangviet.net/?p=634 to https://banhangviet.net/san-pham/634/
+12:03:46	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=6766aa2750c19aad2fa1b32f36ed4aee&_wpnonce=e3b79cc44a
+12:03:46	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=6766aa2750c19aad2fa1b32f36ed4aee&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/?removed_item=1
+12:03:46	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/suon-be-heo-canh-buom/Firefox/ (from https://banhangviet.net/san-pham/suon-be-heo-canh-buom/)
+12:03:46	Warning: 	Moved Permanently for https://banhangviet.net/?p=1063
+12:03:46	Warning: 	File has moved from https://banhangviet.net/?p=1063 to https://banhangviet.net/san-pham/suon-be-heo-canh-buom/
+12:03:52	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=6c340f25839e6acdc73414517203f5f0&_wpnonce=e3b79cc44a
+12:03:52	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=6c340f25839e6acdc73414517203f5f0&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/?removed_item=1
+12:03:52	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/suon-sun-non-heo/Firefox/ (from https://banhangviet.net/san-pham/suon-sun-non-heo/)
+12:03:52	Warning: 	Moved Permanently for https://banhangviet.net/?p=1554
+12:03:52	Warning: 	File has moved from https://banhangviet.net/?p=1554 to https://banhangviet.net/san-pham/suon-sun-non-heo/
+12:03:56	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=98986c005e5def2da341b4e0627d4712&_wpnonce=e3b79cc44a
+12:03:56	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=98986c005e5def2da341b4e0627d4712&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/?removed_item=1
+12:03:56	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/tim-heo/Firefox/ (from https://banhangviet.net/san-pham/tim-heo/)
+12:03:56	Warning: 	Moved Permanently for https://banhangviet.net/?p=1062
+12:03:56	Warning: 	File has moved from https://banhangviet.net/?p=1062 to https://banhangviet.net/san-pham/tim-heo/
+12:04:01	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=cd89fef7ffdd490db800357f47722b20&_wpnonce=e3b79cc44a
+12:04:01	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=cd89fef7ffdd490db800357f47722b20&_wpnonce=e3b79cc44a to http://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/?removed_item=1
+12:04:01	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/xuong-co-nhieu-thit/Firefox/ (from https://banhangviet.net/san-pham/xuong-co-nhieu-thit/)
+12:04:01	Warning: 	Moved Permanently for https://banhangviet.net/?p=919
+12:04:01	Warning: 	File has moved from https://banhangviet.net/?p=919 to https://banhangviet.net/san-pham/xuong-co-nhieu-thit/
+12:04:07	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/page/2/i (from https://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/page/2/)
+12:04:07	Error: 	"Not Found" (404) at link https://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/page/2/Firefox/ (from https://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/page/2/)
+12:04:08	Warning: 	Moved Permanently for https://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/page/1/
+12:04:08	Warning: 	File has moved from https://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/page/1/ to https://banhangviet.net/danh-muc-san-pham/thit-heo-bo-trau/
+12:04:09	Error: 	"Not Found" (404) at link https://banhangviet.net/san-pham/xuong-ong/Firefox/ (from https://banhangviet.net/san-pham/xuong-ong/)
+12:04:09	Warning: 	Moved Permanently for https://banhangviet.net/?p=1065
+12:04:09	Warning: 	File has moved from https://banhangviet.net/?p=1065 to https://banhangviet.net/san-pham/xuong-ong/
+12:04:12	Warning: 	Found for https://banhangviet.net/gio-hang/?remove_item=a2137a2ae8e39b5002a3f8909ecb88fe&_wpnonce=e3b79cc44a
+12:04:12	Warning: 	File has moved from https://banhangviet.net/gio-hang/?remove_item=a2137a2ae8e39b5002a3f8909ecb88fe&_wpnonce=e3b79cc44a to http://banhangviet.net/san-pham/suon-que-heo-nga/?removed_item=1
+12:04:18	Error: 	"Not Found" (404) at link https://banhangviet.net/category/khong-phan-loai/i (from https://banhangviet.net/category/khong-phan-loai/)
+12:04:18	Error: 	"Not Found" (404) at link https://banhangviet.net/category/khong-phan-loai/Firefox/ (from https://banhangviet.net/category/khong-phan-loai/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/grindr-randki-2/i (from https://banhangviet.net/category/grindr-randki-2/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/grindr-randki-2/Firefox/ (from https://banhangviet.net/category/grindr-randki-2/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/cougar-life-it-reviews/i (from https://banhangviet.net/category/cougar-life-it-reviews/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/cougar-life-it-reviews/Firefox/ (from https://banhangviet.net/category/cougar-life-it-reviews/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/connexion-it-reviews/i (from https://banhangviet.net/category/connexion-it-reviews/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/connexion-it-reviews/Firefox/ (from https://banhangviet.net/category/connexion-it-reviews/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/eris-adult-dating-2/i (from https://banhangviet.net/category/eris-adult-dating-2/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/eris-adult-dating-2/Firefox/ (from https://banhangviet.net/category/eris-adult-dating-2/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/hookup-apps-for-couples-hookup-dating-website-2/i (from https://banhangviet.net/category/hookup-apps-for-couples-hookup-dating-website-2/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/hookup-apps-for-couples-hookup-dating-website-2/Firefox/ (from https://banhangviet.net/category/hookup-apps-for-couples-hookup-dating-website-2/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/dilemmas-you-can-face-when-you-are-relationships/Firefox/ (from https://banhangviet.net/dilemmas-you-can-face-when-you-are-relationships/)
+12:06:35	Warning: 	Moved Permanently for https://banhangviet.net/?p=17870
+12:06:35	Warning: 	File has moved from https://banhangviet.net/?p=17870 to https://banhangviet.net/dilemmas-you-can-face-when-you-are-relationships/
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/provo-escort-index-2/i (from https://banhangviet.net/category/provo-escort-index-2/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/provo-escort-index-2/Firefox/ (from https://banhangviet.net/category/provo-escort-index-2/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/albanian-people-for-the-purpose-of-marriage-3/Firefox/ (from https://banhangviet.net/albanian-people-for-the-purpose-of-marriage-3/)
+12:06:35	Warning: 	Moved Permanently for https://banhangviet.net/?p=17876
+12:06:35	Warning: 	File has moved from https://banhangviet.net/?p=17876 to https://banhangviet.net/albanian-people-for-the-purpose-of-marriage-3/
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/christiandatingforfree-de-reviews/i (from https://banhangviet.net/category/christiandatingforfree-de-reviews/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/christiandatingforfree-de-reviews/Firefox/ (from https://banhangviet.net/category/christiandatingforfree-de-reviews/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/weggang-nachtraglich-der-fifty-wieso-dass-etliche/Firefox/ (from https://banhangviet.net/weggang-nachtraglich-der-fifty-wieso-dass-etliche/)
+12:06:35	Warning: 	Moved Permanently for https://banhangviet.net/?p=17868
+12:06:35	Warning: 	File has moved from https://banhangviet.net/?p=17868 to https://banhangviet.net/weggang-nachtraglich-der-fifty-wieso-dass-etliche/
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/payday-loans-for-pa-residents-2/i (from https://banhangviet.net/category/payday-loans-for-pa-residents-2/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/payday-loans-for-pa-residents-2/Firefox/ (from https://banhangviet.net/category/payday-loans-for-pa-residents-2/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/apply-for-brief-signature-loans-out-of-a-primary/Firefox/ (from https://banhangviet.net/apply-for-brief-signature-loans-out-of-a-primary/)
+12:06:35	Warning: 	Moved Permanently for https://banhangviet.net/?p=17866
+12:06:35	Warning: 	File has moved from https://banhangviet.net/?p=17866 to https://banhangviet.net/apply-for-brief-signature-loans-out-of-a-primary/
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/sugar-daddies-usa-az-tucson-service/i (from https://banhangviet.net/category/sugar-daddies-usa-az-tucson-service/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/category/sugar-daddies-usa-az-tucson-service/Firefox/ (from https://banhangviet.net/category/sugar-daddies-usa-az-tucson-service/)
+12:06:35	Error: 	"Not Found" (404) at link https://banhangviet.net/evidence-out-of-prostitution-seen-in-secret/Firefox/ (from https://banhangviet.net/evidence-out-of-prostitution-seen-in-secret/)
+12:06:35	Warning: 	Moved Permanently for https://banhangviet.net/?p=17862
+12:06:35	Warning: 	File has moved from https://banhangviet.net/?p=17862 to https://banhangviet.net/evidence-out-of-prostitution-seen-in-secret/
+12:06:35	Warning: 	Retry after error -4 (Connect Error) at link https://assets.seeking.com/images/sheila-4.jpg (from https://banhangviet.net/evidence-out-of-prostitution-seen-in-secret/)
+12:07:15	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/2/i (from https://banhangviet.net/author/quantri/page/2/)
+12:07:15	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/2/Firefox/ (from https://banhangviet.net/author/quantri/page/2/)
+12:09:12	Warning: 	Moved Permanently for https://banhangviet.net/author/quantri/page/1/
+12:09:12	Warning: 	File has moved from https://banhangviet.net/author/quantri/page/1/ to https://banhangviet.net/author/quantri/
+12:09:18	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/3/i (from https://banhangviet.net/author/quantri/page/3/)
+12:09:20	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/3/Firefox/ (from https://banhangviet.net/author/quantri/page/3/)
+12:11:41	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/4/i (from https://banhangviet.net/author/quantri/page/4/)
+12:11:42	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/4/Firefox/ (from https://banhangviet.net/author/quantri/page/4/)
+12:14:28	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/746/i (from https://banhangviet.net/author/quantri/page/746/)
+12:14:29	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/746/Firefox/ (from https://banhangviet.net/author/quantri/page/746/)
+12:15:21	Error: 	"Not Found" (404) at link https://banhangviet.net/category/mocospace-strona-mobilna-2/i (from https://banhangviet.net/category/mocospace-strona-mobilna-2/)
+12:15:23	Error: 	"Not Found" (404) at link https://banhangviet.net/category/mocospace-strona-mobilna-2/Firefox/ (from https://banhangviet.net/category/mocospace-strona-mobilna-2/)
+12:15:24	Error: 	"Not Found" (404) at link https://banhangviet.net/basic-a-private-paid-survey-was-utilized-to/Firefox/ (from https://banhangviet.net/basic-a-private-paid-survey-was-utilized-to/)
+12:15:25	Warning: 	Moved Permanently for https://banhangviet.net/?p=9069
+12:15:25	Warning: 	File has moved from https://banhangviet.net/?p=9069 to https://banhangviet.net/basic-a-private-paid-survey-was-utilized-to/
+12:15:26	Error: 	"Error when decompressing" (-1) at link https://banhangviet.net/category/uniform-dating-recenze-peihlgўeўeng-451/ (from https://banhangviet.net/basic-a-private-paid-survey-was-utilized-to/)
+12:15:42	Error: 	"Not Found" (404) at link https://banhangviet.net/category/cheekylovers-pl-review/i (from https://banhangviet.net/category/cheekylovers-pl-review/)
+12:15:42	Error: 	"Not Found" (404) at link https://banhangviet.net/category/cheekylovers-pl-review/Firefox/ (from https://banhangviet.net/category/cheekylovers-pl-review/)
+12:15:42	Error: 	"Not Found" (404) at link https://banhangviet.net/freetrial-_-otc-supplements-for-blood-pressure-do-benzos-lower-blood-pressure-reddit-what-helps-lower-blood-pressure-in-jamaica/Firefox/ (from https://banhangviet.net/freetrial-_-otc-supplements-for-blood-pressure-do-benzos-lower-blood-pressure-reddit-what-helps-lower-blood-pressure-in-jamaica/)
+12:15:42	Warning: 	Moved Permanently for https://banhangviet.net/?p=17377
+12:15:42	Warning: 	File has moved from https://banhangviet.net/?p=17377 to https://banhangviet.net/freetrial-_-otc-supplements-for-blood-pressure-do-benzos-lower-blood-pressure-reddit-what-helps-lower-blood-pressure-in-jamaica/
+12:16:14	Error: 	"Connect Error" (-4) after 2 retries at link https://fpcover.cdnpk.net/image/20210624125635.jpg (from https://banhangviet.net/wp-content/themes/flatsome-child/style.css?ver=Pro%20Max%207)
+12:16:14	Error: 	"Not Found" (404) at link https://banhangviet.net/cua-hang/page/2/i (from https://banhangviet.net/cua-hang/page/2/)
+12:16:14	Error: 	"Not Found" (404) at link https://banhangviet.net/cua-hang/page/2/Firefox/ (from https://banhangviet.net/cua-hang/page/2/)
+12:16:18	Warning: 	Moved Permanently for https://banhangviet.net/cua-hang/page/1/
+12:16:18	Warning: 	File has moved from https://banhangviet.net/cua-hang/page/1/ to https://banhangviet.net/cua-hang/
+12:16:18	Error: 	"Not Found" (404) at link https://banhangviet.net/cua-hang/page/3/i (from https://banhangviet.net/cua-hang/page/3/)
+12:16:18	Error: 	"Not Found" (404) at link https://banhangviet.net/cua-hang/page/3/Firefox/ (from https://banhangviet.net/cua-hang/page/3/)
+12:16:24	Warning: 	Moved Permanently for https://banhangviet.net/?p=9
+12:16:24	Warning: 	File has moved from https://banhangviet.net/?p=9 to https://banhangviet.net/thanh-toan/
+12:16:24	Error: 	"Not Found" (404) at link https://banhangviet.net/?page_id=3 (from https://banhangviet.net/thanh-toan/)
+12:16:47	Error: 	"Not Found" (404) at link https://banhangviet.net/exactly-what-is-a-document-data-source/Firefox/ (from https://banhangviet.net/exactly-what-is-a-document-data-source/)
+12:16:47	Warning: 	Moved Permanently for https://banhangviet.net/?p=17718
+12:16:47	Warning: 	File has moved from https://banhangviet.net/?p=17718 to https://banhangviet.net/exactly-what-is-a-document-data-source/
+12:17:08	Error: 	"Not Found" (404) at link https://banhangviet.net/major-antivirus-assessment-where-to-get-the-best-anti-virus-software/Firefox/ (from https://banhangviet.net/major-antivirus-assessment-where-to-get-the-best-anti-virus-software/)
+12:17:08	Warning: 	Moved Permanently for https://banhangviet.net/?p=17740
+12:17:08	Warning: 	File has moved from https://banhangviet.net/?p=17740 to https://banhangviet.net/major-antivirus-assessment-where-to-get-the-best-anti-virus-software/
+12:17:08	Error: 	"Not Found" (404) at link https://banhangviet.net/the-way-to-select-the-best-anti-virus-for-android-os/Firefox/ (from https://banhangviet.net/the-way-to-select-the-best-anti-virus-for-android-os/)
+12:17:08	Warning: 	Moved Permanently for https://banhangviet.net/?p=17782
+12:17:08	Warning: 	File has moved from https://banhangviet.net/?p=17782 to https://banhangviet.net/the-way-to-select-the-best-anti-virus-for-android-os/
+12:17:08	Error: 	"Not Found" (404) at link https://banhangviet.net/ansarada-review-one-of-the-best-data-room-providers/Firefox/ (from https://banhangviet.net/ansarada-review-one-of-the-best-data-room-providers/)
+12:17:08	Warning: 	Moved Permanently for https://banhangviet.net/?p=17796
+12:17:08	Warning: 	File has moved from https://banhangviet.net/?p=17796 to https://banhangviet.net/ansarada-review-one-of-the-best-data-room-providers/
+12:17:08	Error: 	"Not Found" (404) at link https://banhangviet.net/choosing-the-best-vpn-with-regards-to-china/Firefox/ (from https://banhangviet.net/choosing-the-best-vpn-with-regards-to-china/)
+12:17:08	Warning: 	Moved Permanently for https://banhangviet.net/?p=17619
+12:17:08	Warning: 	File has moved from https://banhangviet.net/?p=17619 to https://banhangviet.net/choosing-the-best-vpn-with-regards-to-china/
+12:17:08	Error: 	"Not Found" (404) at link https://banhangviet.net/me-he-me-he-unido-cada-sitio-web-de-citas-por-que-nosotros-no-recibo-una-respuesta/Firefox/ (from https://banhangviet.net/me-he-me-he-unido-cada-sitio-web-de-citas-por-que-nosotros-no-recibo-una-respuesta/)
+12:17:08	Warning: 	Moved Permanently for https://banhangviet.net/?p=16723
+12:17:08	Warning: 	File has moved from https://banhangviet.net/?p=16723 to https://banhangviet.net/me-he-me-he-unido-cada-sitio-web-de-citas-por-que-nosotros-no-recibo-una-respuesta/
+12:17:24	Error: 	"Not Found" (404) at link https://banhangviet.net/how-to-start-an-insurance-blog/Firefox/ (from https://banhangviet.net/how-to-start-an-insurance-blog/)
+12:17:24	Warning: 	Moved Permanently for https://banhangviet.net/?p=16917
+12:17:24	Warning: 	File has moved from https://banhangviet.net/?p=16917 to https://banhangviet.net/how-to-start-an-insurance-blog/
+12:17:50	Error: 	"Not Found" (404) at link https://banhangviet.net/gonadotropina-farmaco-come-un-professionista-con-laiuto-di-questi-5-suggerimenti/Firefox/ (from https://banhangviet.net/gonadotropina-farmaco-come-un-professionista-con-laiuto-di-questi-5-suggerimenti/)
+12:17:50	Warning: 	Moved Permanently for https://banhangviet.net/?p=16426
+12:17:50	Warning: 	File has moved from https://banhangviet.net/?p=16426 to https://banhangviet.net/gonadotropina-farmaco-come-un-professionista-con-laiuto-di-questi-5-suggerimenti/
+12:17:50	Error: 	"Not Found" (404) at link https://norway.direct-peptides.com/wp-content/uploads/peptides/2020/05/TB500-25ML-min.png (from https://banhangviet.net/gonadotropina-farmaco-come-un-professionista-con-laiuto-di-questi-5-suggerimenti/)
+12:17:50	Error: 	"Forbidden" (403) at link https://blackside.com.ua/image/cache/catalog/magnus/Clenbuterol-magnus-2-1500x1000.jpg (from https://banhangviet.net/gonadotropina-farmaco-come-un-professionista-con-laiuto-di-questi-5-suggerimenti/)
+12:18:05	Error: 	"Not Found" (404) at link https://banhangviet.net/que-direccion-tomar-si-su-amigo-will-get-conocido-como/Firefox/ (from https://banhangviet.net/que-direccion-tomar-si-su-amigo-will-get-conocido-como/)
+12:18:05	Warning: 	Moved Permanently for https://banhangviet.net/?p=16362
+12:18:05	Warning: 	File has moved from https://banhangviet.net/?p=16362 to https://banhangviet.net/que-direccion-tomar-si-su-amigo-will-get-conocido-como/
+12:18:21	Error: 	"Not Found" (404) at link https://banhangviet.net/category/khong-phan-loai/page/2/i (from https://banhangviet.net/category/khong-phan-loai/page/2/)
+12:18:21	Error: 	"Not Found" (404) at link https://banhangviet.net/category/khong-phan-loai/page/2/Firefox/ (from https://banhangviet.net/category/khong-phan-loai/page/2/)
+12:19:42	Warning: 	Moved Permanently for https://banhangviet.net/category/khong-phan-loai/page/1/
+12:19:42	Warning: 	File has moved from https://banhangviet.net/category/khong-phan-loai/page/1/ to https://banhangviet.net/category/khong-phan-loai/
+12:19:48	Error: 	"Not Found" (404) at link https://banhangviet.net/category/khong-phan-loai/page/3/i (from https://banhangviet.net/category/khong-phan-loai/page/3/)
+12:19:49	Error: 	"Not Found" (404) at link https://banhangviet.net/category/khong-phan-loai/page/3/Firefox/ (from https://banhangviet.net/category/khong-phan-loai/page/3/)
+12:21:55	Error: 	"Not Found" (404) at link https://banhangviet.net/category/khong-phan-loai/page/4/i (from https://banhangviet.net/category/khong-phan-loai/page/4/)
+12:21:55	Error: 	"Not Found" (404) at link https://banhangviet.net/category/khong-phan-loai/page/4/Firefox/ (from https://banhangviet.net/category/khong-phan-loai/page/4/)
+12:24:08	Error: 	"Not Found" (404) at link https://banhangviet.net/category/khong-phan-loai/page/131/i (from https://banhangviet.net/category/khong-phan-loai/page/131/)
+12:24:08	Error: 	"Not Found" (404) at link https://banhangviet.net/category/khong-phan-loai/page/131/Firefox/ (from https://banhangviet.net/category/khong-phan-loai/page/131/)
+12:25:09	Warning: 	Retry after error -4 (Connect Error) at link https://assets.seeking.com/images/sheila-4.jpg (from https://banhangviet.net/evidence-out-of-prostitution-seen-in-secret/)
+12:25:10	Error: 	"Not Found" (404) at link https://banhangviet.net/tips-satisfy-your-dog-partner-as-if-you/Firefox/ (from https://banhangviet.net/tips-satisfy-your-dog-partner-as-if-you/)
+12:25:11	Warning: 	Moved Permanently for https://banhangviet.net/?p=17864
+12:25:11	Warning: 	File has moved from https://banhangviet.net/?p=17864 to https://banhangviet.net/tips-satisfy-your-dog-partner-as-if-you/
+12:25:13	Error: 	"Not Found" (404) at link https://banhangviet.net/category/hinge-vs-bumble-for-dating-2/i (from https://banhangviet.net/category/hinge-vs-bumble-for-dating-2/)
+12:25:25	Error: 	"Not Found" (404) at link https://banhangviet.net/category/hinge-vs-bumble-for-dating-2/Firefox/ (from https://banhangviet.net/category/hinge-vs-bumble-for-dating-2/)
+12:25:25	Error: 	"Not Found" (404) at link https://banhangviet.net/category/connexion-es-reviews-2/i (from https://banhangviet.net/category/connexion-es-reviews-2/)
+12:25:25	Error: 	"Not Found" (404) at link https://banhangviet.net/category/connexion-es-reviews-2/Firefox/ (from https://banhangviet.net/category/connexion-es-reviews-2/)
+12:25:25	Error: 	"Not Found" (404) at link https://banhangviet.net/5-mas-grandes-aplicaciones-sobre-citas-para-2/Firefox/ (from https://banhangviet.net/5-mas-grandes-aplicaciones-sobre-citas-para-2/)
+12:25:25	Warning: 	Moved Permanently for https://banhangviet.net/?p=17858
+12:25:25	Warning: 	File has moved from https://banhangviet.net/?p=17858 to https://banhangviet.net/5-mas-grandes-aplicaciones-sobre-citas-para-2/
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/escort-escort-sites-2/i (from https://banhangviet.net/category/escort-escort-sites-2/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/escort-escort-sites-2/Firefox/ (from https://banhangviet.net/category/escort-escort-sites-2/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/italian-guys-love-new-stuff-such-as-for-instance/Firefox/ (from https://banhangviet.net/italian-guys-love-new-stuff-such-as-for-instance/)
+12:25:45	Warning: 	Moved Permanently for https://banhangviet.net/?p=17854
+12:25:45	Warning: 	File has moved from https://banhangviet.net/?p=17854 to https://banhangviet.net/italian-guys-love-new-stuff-such-as-for-instance/
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/green-bay-escort-2/i (from https://banhangviet.net/category/green-bay-escort-2/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/green-bay-escort-2/Firefox/ (from https://banhangviet.net/category/green-bay-escort-2/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/thanks-for-visiting-bumble-s-fine-print-of-good/Firefox/ (from https://banhangviet.net/thanks-for-visiting-bumble-s-fine-print-of-good/)
+12:25:45	Warning: 	Moved Permanently for https://banhangviet.net/?p=17856
+12:25:45	Warning: 	File has moved from https://banhangviet.net/?p=17856 to https://banhangviet.net/thanks-for-visiting-bumble-s-fine-print-of-good/
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/1-month-payday-loans/i (from https://banhangviet.net/category/1-month-payday-loans/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/1-month-payday-loans/Firefox/ (from https://banhangviet.net/category/1-month-payday-loans/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/that-maintain-your-financing-given-that-cheap-as/Firefox/ (from https://banhangviet.net/that-maintain-your-financing-given-that-cheap-as/)
+12:25:45	Warning: 	Moved Permanently for https://banhangviet.net/?p=17852
+12:25:45	Warning: 	File has moved from https://banhangviet.net/?p=17852 to https://banhangviet.net/that-maintain-your-financing-given-that-cheap-as/
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/zoosk-vs-match-service-2/i (from https://banhangviet.net/category/zoosk-vs-match-service-2/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/zoosk-vs-match-service-2/Firefox/ (from https://banhangviet.net/category/zoosk-vs-match-service-2/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/unfortunately-the-can-you-imagine-swiping-function/Firefox/ (from https://banhangviet.net/unfortunately-the-can-you-imagine-swiping-function/)
+12:25:45	Warning: 	Moved Permanently for https://banhangviet.net/?p=17850
+12:25:45	Warning: 	File has moved from https://banhangviet.net/?p=17850 to https://banhangviet.net/unfortunately-the-can-you-imagine-swiping-function/
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/bbwcupid-recenze-seznamka-2/i (from https://banhangviet.net/category/bbwcupid-recenze-seznamka-2/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/bbwcupid-recenze-seznamka-2/Firefox/ (from https://banhangviet.net/category/bbwcupid-recenze-seznamka-2/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/how-to-get-in-touch-with-slavic-ladies-towards-the/Firefox/ (from https://banhangviet.net/how-to-get-in-touch-with-slavic-ladies-towards-the/)
+12:25:45	Warning: 	Moved Permanently for https://banhangviet.net/?p=17848
+12:25:45	Warning: 	File has moved from https://banhangviet.net/?p=17848 to https://banhangviet.net/how-to-get-in-touch-with-slavic-ladies-towards-the/
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/concord-review/i (from https://banhangviet.net/category/concord-review/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/concord-review/Firefox/ (from https://banhangviet.net/category/concord-review/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/legs-fetish-podophilia-a-feet-fetishist-has/Firefox/ (from https://banhangviet.net/legs-fetish-podophilia-a-feet-fetishist-has/)
+12:25:45	Warning: 	Moved Permanently for https://banhangviet.net/?p=17846
+12:25:45	Warning: 	File has moved from https://banhangviet.net/?p=17846 to https://banhangviet.net/legs-fetish-podophilia-a-feet-fetishist-has/
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/wing-avis-2/i (from https://banhangviet.net/category/wing-avis-2/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/wing-avis-2/Firefox/ (from https://banhangviet.net/category/wing-avis-2/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/hermosas-frases-sobre-amor-con-el-fin-de/Firefox/ (from https://banhangviet.net/hermosas-frases-sobre-amor-con-el-fin-de/)
+12:25:45	Warning: 	Moved Permanently for https://banhangviet.net/?p=17844
+12:25:45	Warning: 	File has moved from https://banhangviet.net/?p=17844 to https://banhangviet.net/hermosas-frases-sobre-amor-con-el-fin-de/
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/chatiw-it-reviews/i (from https://banhangviet.net/category/chatiw-it-reviews/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/category/chatiw-it-reviews/Firefox/ (from https://banhangviet.net/category/chatiw-it-reviews/)
+12:25:45	Error: 	"Not Found" (404) at link https://banhangviet.net/certain-giorno-di-percettibilita-omosessuale-verso/Firefox/ (from https://banhangviet.net/certain-giorno-di-percettibilita-omosessuale-verso/)
+12:25:45	Warning: 	Moved Permanently for https://banhangviet.net/?p=17842
+12:25:45	Warning: 	File has moved from https://banhangviet.net/?p=17842 to https://banhangviet.net/certain-giorno-di-percettibilita-omosessuale-verso/
+12:25:46	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/5/i (from https://banhangviet.net/author/quantri/page/5/)
+12:25:46	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/5/Firefox/ (from https://banhangviet.net/author/quantri/page/5/)
+12:28:02	Error: 	"Not Found" (404) at link https://banhangviet.net/category/chatib-it-reviews/i (from https://banhangviet.net/category/chatib-it-reviews/)
+12:28:02	Error: 	"Not Found" (404) at link https://banhangviet.net/category/chatib-it-reviews/Firefox/ (from https://banhangviet.net/category/chatib-it-reviews/)
+12:28:03	Error: 	"Not Found" (404) at link https://banhangviet.net/esistono-coppie-che-razza-di-nascono-aperte-ma-2/Firefox/ (from https://banhangviet.net/esistono-coppie-che-razza-di-nascono-aperte-ma-2/)
+12:28:04	Warning: 	Moved Permanently for https://banhangviet.net/?p=17838
+12:28:04	Warning: 	File has moved from https://banhangviet.net/?p=17838 to https://banhangviet.net/esistono-coppie-che-razza-di-nascono-aperte-ma-2/
+12:28:06	Error: 	"Not Found" (404) at link https://banhangviet.net/category/grande-prairie-canada-dating-2/i (from https://banhangviet.net/category/grande-prairie-canada-dating-2/)
+12:28:07	Error: 	"Not Found" (404) at link https://banhangviet.net/category/grande-prairie-canada-dating-2/Firefox/ (from https://banhangviet.net/category/grande-prairie-canada-dating-2/)
+12:28:07	Error: 	"Not Found" (404) at link https://banhangviet.net/best-milf-pornstars-six-india-summer/Firefox/ (from https://banhangviet.net/best-milf-pornstars-six-india-summer/)
+12:28:08	Warning: 	Moved Permanently for https://banhangviet.net/?p=17834
+12:28:08	Warning: 	File has moved from https://banhangviet.net/?p=17834 to https://banhangviet.net/best-milf-pornstars-six-india-summer/
+12:28:09	Error: 	"Not Found" (404) at link https://banhangviet.net/category/blendr-adult-dating-2/i (from https://banhangviet.net/category/blendr-adult-dating-2/)
+12:28:09	Error: 	"Not Found" (404) at link https://banhangviet.net/category/blendr-adult-dating-2/Firefox/ (from https://banhangviet.net/category/blendr-adult-dating-2/)
+12:28:10	Error: 	"Not Found" (404) at link https://banhangviet.net/enjoyable-together-with-your-friend-s-myspace-and/Firefox/ (from https://banhangviet.net/enjoyable-together-with-your-friend-s-myspace-and/)
+12:28:11	Warning: 	Moved Permanently for https://banhangviet.net/?p=17832
+12:28:11	Warning: 	File has moved from https://banhangviet.net/?p=17832 to https://banhangviet.net/enjoyable-together-with-your-friend-s-myspace-and/
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/totally-free-hookup-sites-2/i (from https://banhangviet.net/category/totally-free-hookup-sites-2/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/totally-free-hookup-sites-2/Firefox/ (from https://banhangviet.net/category/totally-free-hookup-sites-2/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/just-how-to-communicate-with-women-and-have/Firefox/ (from https://banhangviet.net/just-how-to-communicate-with-women-and-have/)
+12:28:12	Warning: 	Moved Permanently for https://banhangviet.net/?p=17830
+12:28:12	Warning: 	File has moved from https://banhangviet.net/?p=17830 to https://banhangviet.net/just-how-to-communicate-with-women-and-have/
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/datehookup-adult-dating-2/i (from https://banhangviet.net/category/datehookup-adult-dating-2/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/datehookup-adult-dating-2/Firefox/ (from https://banhangviet.net/category/datehookup-adult-dating-2/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/will-there-be-whatever-else-you-desire-to-share/Firefox/ (from https://banhangviet.net/will-there-be-whatever-else-you-desire-to-share/)
+12:28:12	Warning: 	Moved Permanently for https://banhangviet.net/?p=17828
+12:28:12	Warning: 	File has moved from https://banhangviet.net/?p=17828 to https://banhangviet.net/will-there-be-whatever-else-you-desire-to-share/
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/yonkers-eros-escort-2/i (from https://banhangviet.net/category/yonkers-eros-escort-2/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/yonkers-eros-escort-2/Firefox/ (from https://banhangviet.net/category/yonkers-eros-escort-2/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/are-you-aware-that-sex-it-s-typical-slavery-bdsm/Firefox/ (from https://banhangviet.net/are-you-aware-that-sex-it-s-typical-slavery-bdsm/)
+12:28:12	Warning: 	Moved Permanently for https://banhangviet.net/?p=17826
+12:28:12	Warning: 	File has moved from https://banhangviet.net/?p=17826 to https://banhangviet.net/are-you-aware-that-sex-it-s-typical-slavery-bdsm/
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/chat-zozo-de-reviews/i (from https://banhangviet.net/category/chat-zozo-de-reviews/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/chat-zozo-de-reviews/Firefox/ (from https://banhangviet.net/category/chat-zozo-de-reviews/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/entsprechend-magnete-zieht-ein-euch-durch-die-bank/Firefox/ (from https://banhangviet.net/entsprechend-magnete-zieht-ein-euch-durch-die-bank/)
+12:28:12	Warning: 	Moved Permanently for https://banhangviet.net/?p=17820
+12:28:12	Warning: 	File has moved from https://banhangviet.net/?p=17820 to https://banhangviet.net/entsprechend-magnete-zieht-ein-euch-durch-die-bank/
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/gay-hookup-apps-safety-2/i (from https://banhangviet.net/category/gay-hookup-apps-safety-2/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/gay-hookup-apps-safety-2/Firefox/ (from https://banhangviet.net/category/gay-hookup-apps-safety-2/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/the-fresh-bashful-women-s-guide-to-talking-right/Firefox/ (from https://banhangviet.net/the-fresh-bashful-women-s-guide-to-talking-right/)
+12:28:12	Warning: 	Moved Permanently for https://banhangviet.net/?p=17824
+12:28:12	Warning: 	File has moved from https://banhangviet.net/?p=17824 to https://banhangviet.net/the-fresh-bashful-women-s-guide-to-talking-right/
+12:28:12	Error: 	"Not Found" (404) at link https://i.ytimg.com/vi/3Wr9c0LQGJM/maxresdefault.jpg (from https://banhangviet.net/the-fresh-bashful-women-s-guide-to-talking-right/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/dabble-adult-dating-2/i (from https://banhangviet.net/category/dabble-adult-dating-2/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/dabble-adult-dating-2/Firefox/ (from https://banhangviet.net/category/dabble-adult-dating-2/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/tips-build-a-tinder-bio-finest-tinder-bios-for-men/Firefox/ (from https://banhangviet.net/tips-build-a-tinder-bio-finest-tinder-bios-for-men/)
+12:28:12	Warning: 	Moved Permanently for https://banhangviet.net/?p=17816
+12:28:12	Warning: 	File has moved from https://banhangviet.net/?p=17816 to https://banhangviet.net/tips-build-a-tinder-bio-finest-tinder-bios-for-men/
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/chatspin-es-reviews-2/i (from https://banhangviet.net/category/chatspin-es-reviews-2/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/chatspin-es-reviews-2/Firefox/ (from https://banhangviet.net/category/chatspin-es-reviews-2/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/opiniones-de-existir-citas-en-internet-con-el/Firefox/ (from https://banhangviet.net/opiniones-de-existir-citas-en-internet-con-el/)
+12:28:12	Warning: 	Moved Permanently for https://banhangviet.net/?p=17812
+12:28:12	Warning: 	File has moved from https://banhangviet.net/?p=17812 to https://banhangviet.net/opiniones-de-existir-citas-en-internet-con-el/
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/6/i (from https://banhangviet.net/author/quantri/page/6/)
+12:28:12	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/6/Firefox/ (from https://banhangviet.net/author/quantri/page/6/)
+12:30:52	Error: 	"Not Found" (404) at link https://banhangviet.net/category/web-es-rese-as/i (from https://banhangviet.net/category/web-es-rese-as/)
+12:30:52	Error: 	"Not Found" (404) at link https://banhangviet.net/category/web-es-rese-as/Firefox/ (from https://banhangviet.net/category/web-es-rese-as/)
+12:30:54	Error: 	"Not Found" (404) at link https://banhangviet.net/atraviese-meetic-esta-es-su-mejor-manera-de/Firefox/ (from https://banhangviet.net/atraviese-meetic-esta-es-su-mejor-manera-de/)
+12:30:55	Warning: 	Moved Permanently for https://banhangviet.net/?p=17810
+12:30:55	Warning: 	File has moved from https://banhangviet.net/?p=17810 to https://banhangviet.net/atraviese-meetic-esta-es-su-mejor-manera-de/
+12:30:58	Error: 	"Not Found" (404) at link https://banhangviet.net/category/bbw-hookup-hookup-dating-website-2/i (from https://banhangviet.net/category/bbw-hookup-hookup-dating-website-2/)
+12:30:58	Error: 	"Not Found" (404) at link https://banhangviet.net/category/bbw-hookup-hookup-dating-website-2/Firefox/ (from https://banhangviet.net/category/bbw-hookup-hookup-dating-website-2/)
+12:30:59	Error: 	"Not Found" (404) at link https://banhangviet.net/top-totally-free-dating-sites-to-own-significant/Firefox/ (from https://banhangviet.net/top-totally-free-dating-sites-to-own-significant/)
+12:31:00	Warning: 	Moved Permanently for https://banhangviet.net/?p=17808
+12:31:00	Warning: 	File has moved from https://banhangviet.net/?p=17808 to https://banhangviet.net/top-totally-free-dating-sites-to-own-significant/
+12:31:01	Error: 	"Not Found" (404) at link https://banhangviet.net/category/sugar-daddies-usa-app-2/i (from https://banhangviet.net/category/sugar-daddies-usa-app-2/)
+12:31:02	Error: 	"Not Found" (404) at link https://banhangviet.net/category/sugar-daddies-usa-app-2/Firefox/ (from https://banhangviet.net/category/sugar-daddies-usa-app-2/)
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/why-do-western-males-like-dominican-females-going/Firefox/ (from https://banhangviet.net/why-do-western-males-like-dominican-females-going/)
+12:31:12	Warning: 	Moved Permanently for https://banhangviet.net/?p=17814
+12:31:12	Warning: 	File has moved from https://banhangviet.net/?p=17814 to https://banhangviet.net/why-do-western-males-like-dominican-females-going/
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/mexicancupid-log-in-2/i (from https://banhangviet.net/category/mexicancupid-log-in-2/)
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/mexicancupid-log-in-2/Firefox/ (from https://banhangviet.net/category/mexicancupid-log-in-2/)
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/tinder-silver-apk-are-a-premium-solution/Firefox/ (from https://banhangviet.net/tinder-silver-apk-are-a-premium-solution/)
+12:31:12	Warning: 	Moved Permanently for https://banhangviet.net/?p=17802
+12:31:12	Warning: 	File has moved from https://banhangviet.net/?p=17802 to https://banhangviet.net/tinder-silver-apk-are-a-premium-solution/
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/russian-chat-rooms-dating-2/i (from https://banhangviet.net/category/russian-chat-rooms-dating-2/)
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/russian-chat-rooms-dating-2/Firefox/ (from https://banhangviet.net/category/russian-chat-rooms-dating-2/)
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/to-possess-a-beneficial-german-lady-gender-is-an/Firefox/ (from https://banhangviet.net/to-possess-a-beneficial-german-lady-gender-is-an/)
+12:31:12	Warning: 	Moved Permanently for https://banhangviet.net/?p=17798
+12:31:12	Warning: 	File has moved from https://banhangviet.net/?p=17798 to https://banhangviet.net/to-possess-a-beneficial-german-lady-gender-is-an/
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/chicago-review/i (from https://banhangviet.net/category/chicago-review/)
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/chicago-review/Firefox/ (from https://banhangviet.net/category/chicago-review/)
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/fetlife-analysis-record-conclusion-so-much-more/Firefox/ (from https://banhangviet.net/fetlife-analysis-record-conclusion-so-much-more/)
+12:31:12	Warning: 	Moved Permanently for https://banhangviet.net/?p=17804
+12:31:12	Warning: 	File has moved from https://banhangviet.net/?p=17804 to https://banhangviet.net/fetlife-analysis-record-conclusion-so-much-more/
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/portland-or-oregon-reviews-2/i (from https://banhangviet.net/category/portland-or-oregon-reviews-2/)
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/portland-or-oregon-reviews-2/Firefox/ (from https://banhangviet.net/category/portland-or-oregon-reviews-2/)
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/we-invite-one-to-walk-through-so-it-open-door-with/Firefox/ (from https://banhangviet.net/we-invite-one-to-walk-through-so-it-open-door-with/)
+12:31:12	Warning: 	Moved Permanently for https://banhangviet.net/?p=17792
+12:31:12	Warning: 	File has moved from https://banhangviet.net/?p=17792 to https://banhangviet.net/we-invite-one-to-walk-through-so-it-open-door-with/
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/bikerplanet-adult-dating-2/i (from https://banhangviet.net/category/bikerplanet-adult-dating-2/)
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/bikerplanet-adult-dating-2/Firefox/ (from https://banhangviet.net/category/bikerplanet-adult-dating-2/)
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/single-to-reside-lifetime-for-the-fullest/Firefox/ (from https://banhangviet.net/single-to-reside-lifetime-for-the-fullest/)
+12:31:12	Warning: 	Moved Permanently for https://banhangviet.net/?p=17788
+12:31:12	Warning: 	File has moved from https://banhangviet.net/?p=17788 to https://banhangviet.net/single-to-reside-lifetime-for-the-fullest/
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/payday-loans/i (from https://banhangviet.net/category/payday-loans/)
+12:31:12	Error: 	"Not Found" (404) at link https://banhangviet.net/category/payday-loans/Firefox/ (from https://banhangviet.net/category/payday-loans/)
+12:32:38	Error: 	"Not Found" (404) at link https://banhangviet.net/where-to-find-student-loans-as-opposed-to-an/Firefox/ (from https://banhangviet.net/where-to-find-student-loans-as-opposed-to-an/)
+12:32:38	Warning: 	Moved Permanently for https://banhangviet.net/?p=17786
+12:32:38	Warning: 	File has moved from https://banhangviet.net/?p=17786 to https://banhangviet.net/where-to-find-student-loans-as-opposed-to-an/
+12:32:38	Error: 	"Not Found" (404) at link https://banhangviet.net/category/asian-hookup-apps-hookup-dating-websites-2/i (from https://banhangviet.net/category/asian-hookup-apps-hookup-dating-websites-2/)
+12:32:38	Error: 	"Not Found" (404) at link https://banhangviet.net/category/asian-hookup-apps-hookup-dating-websites-2/Firefox/ (from https://banhangviet.net/category/asian-hookup-apps-hookup-dating-websites-2/)
+12:32:38	Error: 	"Not Found" (404) at link https://banhangviet.net/tabasco-s-the-eldest-and-more-than-well-known-gay/Firefox/ (from https://banhangviet.net/tabasco-s-the-eldest-and-more-than-well-known-gay/)
+12:32:38	Warning: 	Moved Permanently for https://banhangviet.net/?p=17790
+12:32:38	Warning: 	File has moved from https://banhangviet.net/?p=17790 to https://banhangviet.net/tabasco-s-the-eldest-and-more-than-well-known-gay/
+12:32:38	Error: 	"Not Found" (404) at link https://keck-huissier-haguenau.com/wp-content/uploads/2016/11/Tinashe-1.png (from https://banhangviet.net/tabasco-s-the-eldest-and-more-than-well-known-gay/)
+12:32:38	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/7/i (from https://banhangviet.net/author/quantri/page/7/)
+12:32:38	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/7/Firefox/ (from https://banhangviet.net/author/quantri/page/7/)
+12:34:59	Error: 	"Not Found" (404) at link https://banhangviet.net/evropske-kasinove-webove-stranky-ktere-jsou-na-stole-chezh-casino-point/Firefox/ (from https://banhangviet.net/evropske-kasinove-webove-stranky-ktere-jsou-na-stole-chezh-casino-point/)
+12:35:00	Warning: 	Moved Permanently for https://banhangviet.net/?p=6369
+12:35:00	Warning: 	File has moved from https://banhangviet.net/?p=6369 to https://banhangviet.net/evropske-kasinove-webove-stranky-ktere-jsou-na-stole-chezh-casino-point/
+12:35:02	Error: 	"Not Found" (404) at link https://www.i-11nv.com/wp-content/uploads/2020/05/slotmachines-1024x576.jpg (from https://banhangviet.net/evropske-kasinove-webove-stranky-ktere-jsou-na-stole-chezh-casino-point/)
+12:35:20	Error: 	"Not Found" (404) at link https://banhangviet.net/uj-bonuszok-a-nepszeru-magyar-lvbet-kaszinoban/Firefox/ (from https://banhangviet.net/uj-bonuszok-a-nepszeru-magyar-lvbet-kaszinoban/)
+12:35:20	Warning: 	Moved Permanently for https://banhangviet.net/?p=8291
+12:35:20	Warning: 	File has moved from https://banhangviet.net/?p=8291 to https://banhangviet.net/uj-bonuszok-a-nepszeru-magyar-lvbet-kaszinoban/
+12:35:20	Error: 	"Forbidden" (403) at link https://de.slotsup.com/wp-content/uploads/default/lvbet.png (from https://banhangviet.net/uj-bonuszok-a-nepszeru-magyar-lvbet-kaszinoban/)
+12:35:20	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/745/i (from https://banhangviet.net/author/quantri/page/745/)
+12:35:20	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/745/Firefox/ (from https://banhangviet.net/author/quantri/page/745/)
+12:37:25	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/743/i (from https://banhangviet.net/author/quantri/page/743/)
+12:37:25	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/743/Firefox/ (from https://banhangviet.net/author/quantri/page/743/)
+12:38:56	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/744/i (from https://banhangviet.net/author/quantri/page/744/)
+12:38:56	Error: 	"Not Found" (404) at link https://banhangviet.net/author/quantri/page/744/Firefox/ (from https://banhangviet.net/author/quantri/page/744/)
+12:40:49	Error: 	"Not Found" (404) at link https://banhangviet.net/establish-most-readily-useful-tinder-bios/Firefox/ (from https://banhangviet.net/establish-most-readily-useful-tinder-bios/)
+12:40:49	Warning: 	Moved Permanently for https://banhangviet.net/?p=9061
+12:40:49	Warning: 	File has moved from https://banhangviet.net/?p=9061 to https://banhangviet.net/establish-most-readily-useful-tinder-bios/
+12:40:59	Error: 	"Not Found" (404) at link https://banhangviet.net/category/what-helps-lower-blood-pressure-in-jamaica/i (from https://banhangviet.net/category/what-helps-lower-blood-pressure-in-jamaica/)
+12:40:59	Error: 	"Not Found" (404) at link https://banhangviet.net/category/what-helps-lower-blood-pressure-in-jamaica/Firefox/ (from https://banhangviet.net/category/what-helps-lower-blood-pressure-in-jamaica/)
+12:40:59	Error: 	"Not Found" (404) at link https://banhangviet.net/tag/what-helps-lower-blood-pressure-in-jamaica/i (from https://banhangviet.net/tag/what-helps-lower-blood-pressure-in-jamaica/)
+12:40:59	Error: 	"Not Found" (404) at link https://banhangviet.net/tag/what-helps-lower-blood-pressure-in-jamaica/Firefox/ (from https://banhangviet.net/tag/what-helps-lower-blood-pressure-in-jamaica/)
+12:40:59	Error: 	"Not Found" (404) at link https://banhangviet.net/voila-je-suis-etudiante-et-je-connais-dans-ma-3/Firefox/ (from https://banhangviet.net/voila-je-suis-etudiante-et-je-connais-dans-ma-3/)
+12:40:59	Warning: 	Moved Permanently for https://banhangviet.net/?p=9077
+12:40:59	Warning: 	File has moved from https://banhangviet.net/?p=9077 to https://banhangviet.net/voila-je-suis-etudiante-et-je-connais-dans-ma-3/
+12:41:12	Error: 	"Not Found" (404) at link https://banhangviet.net/studies-service-plans-to-forgive-40-one-hundred/Firefox/ (from https://banhangviet.net/studies-service-plans-to-forgive-40-one-hundred/)
+12:41:12	Warning: 	Moved Permanently for https://banhangviet.net/?p=17307
+12:41:12	Warning: 	File has moved from https://banhangviet.net/?p=17307 to https://banhangviet.net/studies-service-plans-to-forgive-40-one-hundred/
+12:41:24	Error: 	"Not Found" (404) at link https://banhangviet.net/yahoo-aol-and-you-can-freenet-are-generally-in-the/Firefox/ (from https://banhangviet.net/yahoo-aol-and-you-can-freenet-are-generally-in-the/)
+12:41:24	Warning: 	Moved Permanently for https://banhangviet.net/?p=17309
+12:41:24	Warning: 	File has moved from https://banhangviet.net/?p=17309 to https://banhangviet.net/yahoo-aol-and-you-can-freenet-are-generally-in-the/
+12:41:33	Error: 	"Not Found" (404) at link https://banhangviet.net/veut-site-rencontre-sans-aucun-frais/Firefox/ (from https://banhangviet.net/veut-site-rencontre-sans-aucun-frais/)
+12:41:33	Warning: 	Moved Permanently for https://banhangviet.net/?p=16721
+12:41:33	Warning: 	File has moved from https://banhangviet.net/?p=16721 to https://banhangviet.net/veut-site-rencontre-sans-aucun-frais/
+12:41:44	Error: 	"Not Found" (404) at link https://banhangviet.net/pay-day-loan-appleton-with-the-wisconsin-on-the/Firefox/ (from https://banhangviet.net/pay-day-loan-appleton-with-the-wisconsin-on-the/)
+12:41:44	Warning: 	Moved Permanently for https://banhangviet.net/?p=16725
+12:41:44	Warning: 	File has moved from https://banhangviet.net/?p=16725 to https://banhangviet.net/pay-day-loan-appleton-with-the-wisconsin-on-the/
+12:41:59	Error: 	"Not Found" (404) at link https://banhangviet.net/most-readily-useful-payday-loans-madison-wi-select/Firefox/ (from https://banhangviet.net/most-readily-useful-payday-loans-madison-wi-select/)
+12:41:59	Warning: 	Moved Permanently for https://banhangviet.net/?p=16683
+12:41:59	Warning: 	File has moved from https://banhangviet.net/?p=16683 to https://banhangviet.net/most-readily-useful-payday-loans-madison-wi-select/
+12:42:13	Error: 	"Not Found" (404) at link https://banhangviet.net/payday-loan-instantaneous-currency-getting/Firefox/ (from https://banhangviet.net/payday-loan-instantaneous-currency-getting/)
+12:42:13	Warning: 	Moved Permanently for https://banhangviet.net/?p=16687
+12:42:13	Warning: 	File has moved from https://banhangviet.net/?p=16687 to https://banhangviet.net/payday-loan-instantaneous-currency-getting/
+12:42:26	Error: 	"Not Found" (404) at link https://banhangviet.net/are-there-mba-fund-for-around-the-world-youngsters/Firefox/ (from https://banhangviet.net/are-there-mba-fund-for-around-the-world-youngsters/)
+12:42:26	Warning: 	Moved Permanently for https://banhangviet.net/?p=16430
+12:42:26	Warning: 	File has moved from https://banhangviet.net/?p=16430 to https://banhangviet.net/are-there-mba-fund-for-around-the-world-youngsters/
+12:42:37	Error: 	"Not Found" (404) at link https://banhangviet.net/armenian-women-to-have-relationships-very-good/Firefox/ (from https://banhangviet.net/armenian-women-to-have-relationships-very-good/)
+12:42:37	Warning: 	Moved Permanently for https://banhangviet.net/?p=16428
+12:42:37	Warning: 	File has moved from https://banhangviet.net/?p=16428 to https://banhangviet.net/armenian-women-to-have-relationships-very-good/
+12:42:52	Error: 	"Not Found" (404) at link https://banhangviet.net/gays-and-you-will-lesbians-passed-down-these/Firefox/ (from https://banhangviet.net/gays-and-you-will-lesbians-passed-down-these/)
+12:42:52	Warning: 	Moved Permanently for https://banhangviet.net/?p=16364
+12:42:52	Warning: 	File has moved from https://banhangviet.net/?p=16364 to https://banhangviet.net/gays-and-you-will-lesbians-passed-down-these/
+12:43:15	Error: 	"Not Found" (404) at link https://banhangviet.net/in-which-it-differs-considerably-away-from-tinder/Firefox/ (from https://banhangviet.net/in-which-it-differs-considerably-away-from-tinder/)
+12:43:15	Warning: 	Moved Permanently for https://banhangviet.net/?p=16366
+12:43:15	Warning: 	File has moved from https://banhangviet.net/?p=16366 to https://banhangviet.net/in-which-it-differs-considerably-away-from-tinder/
+12:43:31	Error: 	"Not Found" (404) at link https://banhangviet.net/how-to-find-the-best-paper-writing-service/Firefox/ (from https://banhangviet.net/how-to-find-the-best-paper-writing-service/)
+12:43:31	Warning: 	Moved Permanently for https://banhangviet.net/?p=16298
+12:43:31	Warning: 	File has moved from https://banhangviet.net/?p=16298 to https://banhangviet.net/how-to-find-the-best-paper-writing-service/
+12:43:38	Error: 	"Not Found" (404) at link https://banhangviet.net/professional-custom-essays-service-for-different-writers/Firefox/ (from https://banhangviet.net/professional-custom-essays-service-for-different-writers/)
+12:43:38	Warning: 	Moved Permanently for https://banhangviet.net/?p=16299
+12:43:38	Warning: 	File has moved from https://banhangviet.net/?p=16299 to https://banhangviet.net/professional-custom-essays-service-for-different-writers/
+12:43:48	Error: 	"Not Found" (404) at link https://banhangviet.net/tips-on-writing-an-essay/Firefox/ (from https://banhangviet.net/tips-on-writing-an-essay/)
+12:43:48	Warning: 	Moved Permanently for https://banhangviet.net/?p=15942
+12:43:48	Warning: 	File has moved from https://banhangviet.net/?p=15942 to https://banhangviet.net/tips-on-writing-an-essay/
+12:44:01	Error: 	"Not Found" (404) at link https://banhangviet.net/how-to-write-a-affordable-essay/Firefox/ (from https://banhangviet.net/how-to-write-a-affordable-essay/)
+12:44:01	Warning: 	Moved Permanently for https://banhangviet.net/?p=15941
+12:44:01	Warning: 	File has moved from https://banhangviet.net/?p=15941 to https://banhangviet.net/how-to-write-a-affordable-essay/
+12:44:01	Error: 	"Not Found" (404) at link https://banhangviet.net/custom-research-papers/Firefox/ (from https://banhangviet.net/custom-research-papers/)
+12:44:01	Warning: 	Moved Permanently for https://banhangviet.net/?p=15936
+12:44:01	Warning: 	File has moved from https://banhangviet.net/?p=15936 to https://banhangviet.net/custom-research-papers/
+12:44:14	Error: 	"Not Found" (404) at link https://banhangviet.net/research-papers-for-sale-online/Firefox/ (from https://banhangviet.net/research-papers-for-sale-online/)
+12:44:14	Warning: 	Moved Permanently for https://banhangviet.net/?p=15935
+12:44:14	Warning: 	File has moved from https://banhangviet.net/?p=15935 to https://banhangviet.net/research-papers-for-sale-online/
+12:44:25	Error: 	Exit requested by shell or user
+12:44:26	Warning: 	File not added due to mirror cancel: https://banhangviet.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbanhangviet.net%2Fwhere-can-i-see-women-in-costa-rica%2F
+12:44:27	Error: 	"Not Found" (404) at link https://banhangviet.net/online-data-place-companies/Firefox/ (from https://banhangviet.net/online-data-place-companies/)
+12:44:27	Warning: 	Moved Permanently for https://banhangviet.net/?p=16200
+12:44:27	Warning: 	File has moved from https://banhangviet.net/?p=16200 to https://banhangviet.net/online-data-place-companies/
+12:44:28	Error: 	Exit requested by shell or user
+12:44:28	Error: 	"" (-1) at link https://banhangviet.net/tinder-most-readily-useful-selections-explained/ (from https://banhangviet.net/online-data-place-companies/)
+12:44:28	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 0 minutes 9 seconds : 3205 links scanned, 2414 files written (287190519 bytes overall) [201542157 bytes received at 55844 bytes/sec], 195869049 bytes transferred using HTTP compression in 2183 files, ratio 21%, 16.1 requests per connection
+(273 errors, 279 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
